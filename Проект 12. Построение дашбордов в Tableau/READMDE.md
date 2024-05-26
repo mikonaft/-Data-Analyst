@@ -19,6 +19,6 @@ TED (от англ. technology, education, design — «технологии, о
 ## Инструменты:
 Tableau
 
-Дашборд в Tableau: ссылка
-Презентация: ссылка
+## Дашборд в Tableau: 
+https://public.tableau.com/app/profile/miras.maxutov/viz/final_project_tableau_maxutov/Story2
 
