@@ -16,3 +16,6 @@
 
 ## Используемые библиотеки
 pandas, numpy, matplotlib, seaborn, plotly.express
+
+## Ссылка на презентацию
+https://drive.google.com/file/d/11tMVqdvARKtkM0meaXaShCR3qLpNWaNr/view?usp=sharing
